@@ -51,7 +51,7 @@ Francisco Banha's Files
 In order to **_run the example file_**:
 
 ```
-(...)/PredictorSystem_2.0/CodeAnalysisRW/Demos$  Rscript testScript.R
+(...)/PredictorSystem_public/CodeAnalysisRW/Demos$  Rscript testScript.R
 
 ```
 
@@ -60,27 +60,27 @@ In order to **_run the example file_**:
 
 In order to **_populate_** a certain **package** with CRAN example file:
 ```
-(...)/PredictorSystem_2.0/CodeAnalysisRW$  Rscript populateFunction.R stats
+(...)/PredictorSystem_public/CodeAnalysisRW$  Rscript populateFunction.R stats
 
 ```
 
 In order to **_populate_** a certain **function** with CRAN example file:
 ```
-(...)/PredictorSystem_2.0/CodeAnalysisRW$  Rscript populateFunction.R stats lm
+(...)/PredictorSystem_public/CodeAnalysisRW$  Rscript populateFunction.R stats lm
 
 ```
 
 In order to **_display the records_** a certain **function** has in the system:
 
 ```
-(...)/PredictorSystem_2.0/CodeAnalysisRW$  Rscript historyReader.R stats lm
+(...)/PredictorSystem_public/CodeAnalysisRW$  Rscript historyReader.R stats lm
 
 ```
 
 In order to **_display the records_** a certain **package** has in the system:
 
 ```
-(...)/PredictorSystem_2.0/CodeAnalysisRW$  Rscript historyReader.R TOTAL stats
+(...)/PredictorSystem_public/CodeAnalysisRW$  Rscript historyReader.R TOTAL stats
 
 ```
 
